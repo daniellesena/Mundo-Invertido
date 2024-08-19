@@ -29,3 +29,6 @@ O design foi elaborado no [Figma](https://www.figma.com/design/I3Q42CcVUziRN3iMf
 - Tons escuros e vermelhos para remeter ao ambiente sombrio e misterioso do "Mundo Invertido" da série.
 - A alternância para esse tema altera o clima visual e a experiência do usuário.
 
+- ![image](https://github.com/user-attachments/assets/6013211c-90ef-455d-baf2-47d47bf04795)
+
+
